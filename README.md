@@ -1,4 +1,6 @@
 📊 Ecommerce Growth Analytics Dashboard
+
+
 📌 Project Overview
 
 This project focuses on analyzing e-commerce performance using a one-page Power BI dashboard to track key business and growth metrics. The dashboard provides a consolidated view of revenue, profitability, order trends, category performance, and geographic sales distribution to support data-driven decision-making.
